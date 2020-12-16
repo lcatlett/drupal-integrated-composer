@@ -2,7 +2,7 @@
 
 This is Pantheon's recommended starting point for forking new Drupal upstreams
 that work with the Platform's Integrated Composer build process. It is also the
-Platform's standard Drupal 9 upstream.
+Platform's standard Drupal 8 upstream with Integrated Composer.
 
 Unlike with earlier Pantheon upstreams, files such as Drupal Core that you are
 unlikely to adjust while building sites are not in the main branch of the 
